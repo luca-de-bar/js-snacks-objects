@@ -9,3 +9,8 @@ Es risultato finale:
   { nome: 'Tizio', cognome: 'Caio', eta: 20, info:'Tizio Caio può guidare' },
   { nome: 'Pippo', cognome: 'pluto', eta: 15, info:'Pippo Pluto NON può guidare' }
 ]
+
+
+## Cosa ho imparato 
+
+- Rafforzato le conoscenze sugli oggetti JS

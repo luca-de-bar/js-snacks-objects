@@ -69,7 +69,7 @@ for (let i = 0; i < myPeople.length; i++){
         finalArray.push(myPeople[i]);
 
     } else {
-
+        
         myPeople[i].info = `${myPeople[i].nome} Può guidare!`
         finalArray.push(myPeople[i]);
     }
